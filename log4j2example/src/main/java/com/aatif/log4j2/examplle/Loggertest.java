@@ -6,7 +6,8 @@ import org.apache.logging.log4j.Logger;
 
 public class Loggertest {
 	public static void main(String[] args) {
-
+		System.out.println("Testing");
+		System.out.println("Testing");
 		Logger logger = LogManager.getLogger(Loggertest.class);
 		Logger annLogger = LogManager.getLogger("annLogger");
 		Logger cgLogger = LogManager.getLogger("cgLogger");

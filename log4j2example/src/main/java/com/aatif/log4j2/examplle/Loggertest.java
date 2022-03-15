@@ -17,6 +17,7 @@ public class Loggertest {
 		logger.info("Testing");
 		annLogger.info("annLogger");
 		cgLogger.info("cgLogger");
+		System.out.println("Testing");
 
 	}
 }

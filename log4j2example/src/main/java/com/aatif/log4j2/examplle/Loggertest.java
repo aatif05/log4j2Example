@@ -19,6 +19,7 @@ public class Loggertest {
 		annLogger.info("annLogger");
 		cgLogger.info("cgLogger");
 		System.out.println("Testing");
+		System.out.println("Testing");
 
 	}
 }
